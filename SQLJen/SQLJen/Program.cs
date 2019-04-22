@@ -10,6 +10,7 @@ namespace SQLJen
     {
         static void Main(string[] args)
         {
+            string str = string.Empty;
         }
     }
 }
