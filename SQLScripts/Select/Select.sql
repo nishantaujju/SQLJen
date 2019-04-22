@@ -1,2 +1,2 @@
 
-select * from Employee
+select * from Employee where id=1
